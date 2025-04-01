@@ -94,7 +94,7 @@ export default function GrencomLandingPage() {
       
             {/* Hero Section */}
       <section style={{ background: "#f3f4f6", padding: "4rem 2rem", textAlign: "center", position: "relative" }}>
-        <img src="/logos/grencom-logo.png" alt="Grencom Logo" style={{ maxWidth: "150px", marginBottom: "1rem", position: "absolute", top: "2rem", left: "2rem" }} />
+        <img src="/logos/grencom-logo.png" alt="Grencom Logo" style={{ maxWidth: "300px", marginBottom: "1rem", position: "relative", top: "1rem", left: "2rem" }} />
         <h1 style={{ fontSize: "2.5rem", color: "#004225" }}>Clean Energy. Local Power. One Simple Plan.</h1>
         <p style={{ fontSize: "1.125rem", marginTop: "1rem", color: "#333" }}>
           We help small businesses cut energy costs, earn from their rooftops, and get seen for going green – with no upfront investment.
